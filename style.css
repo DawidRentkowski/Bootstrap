@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 .hajt {
-	height: 45vh;
+	height: auto;
     padding: 100px;
     background-color: dimgrey;
 }
@@ -30,7 +30,4 @@ body{
 	margin-right: 5vw;
     align-content: center;
     align-items: center;
-}
-.chang{
-    height: 45vh;
 }
