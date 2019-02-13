@@ -1,0 +1,33 @@
+body{
+    overflow-x: hidden;
+}
+.hajt {
+	height: auto;
+    padding: 100px;
+    background-color: dimgrey;
+}
+.karty{
+    padding: 50px;
+    height: auto;
+}
+.filler {
+	height: 35vh;
+    background-color: gray;
+}
+.that{
+    padding: 50px;
+}
+.sky {
+	height: 100px;
+    width: 100px;
+}
+.skye {
+	max-height: 250px;
+    border-radius: 50%;
+}
+.marginek {
+    margin-left: 5vw;
+	margin-right: 5vw;
+    align-content: center;
+    align-items: center;
+}
